@@ -1,2 +1,2 @@
-# NETFLIX
+# Demo
 Just tried Netflix interface
